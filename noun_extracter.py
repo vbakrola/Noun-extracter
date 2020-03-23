@@ -12,7 +12,7 @@ from nltk.corpus import stopwords
 #Define your pdf extension file here
 filename = 'demo.pdf'
 
-#Opne the file in read mode.
+#Open the file in read mode.
 pdfFileObj = open(filename,'rb')
 
 #The readable object pdfReader
